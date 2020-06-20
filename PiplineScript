@@ -1,4 +1,4 @@
 node {
   stage 'Run JMeter Test'
-  sh '/home/ubuntu/apache-jmeter-3.1/bin/jmeter.sh -n -t /home/ubuntu/Jenkins_demo1.jmx -l test.jtl'
+  sh 'VDs-MacBook-Pro-2:bin vd$ /.jmeter -jjmeter.save.saveservice.output_format=xml -n -t /users/vd/desktop/For-Data.jmx -l /Users/vd/desktop/projects/apache-jmeter-5.3/bin/report.jtl'
 }
