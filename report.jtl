@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="4024" it="0" lt="4021" ct="2903" ts="1592385316464" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-38" dt="text" by="621" sby="523" ng="50" na="50">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4024" it="13" lt="4021" ct="2903" ts="1592385316461" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-38" dt="" by="621" sby="523" ng="50" na="50"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592385320503" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="618" sby="0" ng="50" na="50"/>
+<httpSample t="4178" it="0" lt="4176" ct="3035" ts="1592385316387" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-34" dt="text" by="621" sby="523" ng="49" na="49">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4178" it="3" lt="4176" ct="3035" ts="1592385316384" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-34" dt="" by="621" sby="523" ng="49" na="49"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320566" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="619" sby="0" ng="49" na="49"/>
+<httpSample t="4430" it="0" lt="4425" ct="3174" ts="1592385316170" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-21" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4430" it="2" lt="4425" ct="3174" ts="1592385316169" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-21" dt="" by="621" sby="523" ng="48" na="48"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320601" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="618" sby="0" ng="48" na="48"/>
+<httpSample t="4615" it="0" lt="4615" ct="3338" ts="1592385315986" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-5" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4615" it="88" lt="4615" ct="3338" ts="1592385315899" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="621" sby="523" ng="48" na="48"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320602" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="618" sby="0" ng="47" na="47"/>
+<httpSample t="3996" it="0" lt="3995" ct="2712" ts="1592385316633" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-47" dt="text" by="621" sby="523" ng="46" na="46">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="3996" it="3" lt="3995" ct="2712" ts="1592385316631" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-47" dt="" by="621" sby="523" ng="46" na="46"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320630" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="619" sby="0" ng="46" na="46"/>
+<httpSample t="4034" it="0" lt="4034" ct="2813" ts="1592385316656" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-48" dt="text" by="621" sby="523" ng="45" na="45">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4034" it="3" lt="4034" ct="2813" ts="1592385316654" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-48" dt="" by="621" sby="523" ng="45" na="45"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592385320691" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="619" sby="0" ng="45" na="45"/>
+<httpSample t="4000" it="0" lt="4000" ct="2652" ts="1592385316693" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-50" dt="text" by="603" sby="523" ng="44" na="44">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4000" it="2" lt="4000" ct="2652" ts="1592385316692" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-50" dt="" by="603" sby="523" ng="44" na="44"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320694" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="619" sby="0" ng="44" na="44"/>
+<httpSample t="4643" it="0" lt="4642" ct="3286" ts="1592385316078" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-16" dt="text" by="621" sby="523" ng="43" na="43">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4643" it="2" lt="4642" ct="3286" ts="1592385316077" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-16" dt="" by="621" sby="523" ng="43" na="43"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320722" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="619" sby="0" ng="43" na="43"/>
+<httpSample t="4715" it="0" lt="4715" ct="3260" ts="1592385316075" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-15" dt="text" by="621" sby="523" ng="42" na="42">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4803" it="0" lt="4803" ct="3358" ts="1592385315986" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-4" dt="text" by="603" sby="523" ng="42" na="42">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4803" it="120" lt="4803" ct="3358" ts="1592385315869" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="603" sby="523" ng="42" na="42"/>
+<httpSample t="4409" it="0" lt="4409" ct="2969" ts="1592385316382" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-32" dt="text" by="603" sby="523" ng="42" na="42">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320793" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="618" sby="0" ng="42" na="42"/>
+<sample t="4409" it="5" lt="4409" ct="2969" ts="1592385316379" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-32" dt="" by="603" sby="523" ng="42" na="42"/>
+<sample t="4715" it="2" lt="4715" ct="3260" ts="1592385316074" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-15" dt="" by="621" sby="523" ng="42" na="42"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320793" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="619" sby="0" ng="42" na="42"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592385320793" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="619" sby="0" ng="42" na="42"/>
+<httpSample t="4817" it="0" lt="4817" ct="3380" ts="1592385315991" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-2" dt="text" by="621" sby="523" ng="39" na="39">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4817" it="143" lt="4817" ct="3380" ts="1592385315849" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="621" sby="523" ng="39" na="39"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320809" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="617" sby="0" ng="39" na="39"/>
+<httpSample t="4250" it="0" lt="4250" ct="2778" ts="1592385316576" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-44" dt="text" by="621" sby="523" ng="38" na="38">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4250" it="3" lt="4250" ct="2778" ts="1592385316574" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-44" dt="" by="621" sby="523" ng="38" na="38"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320827" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="619" sby="0" ng="38" na="38"/>
+<httpSample t="4160" it="0" lt="4160" ct="2692" ts="1592385316667" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-49" dt="text" by="621" sby="523" ng="38" na="38">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4160" it="3" lt="4160" ct="2692" ts="1592385316666" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-49" dt="" by="621" sby="523" ng="38" na="38"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320829" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="619" sby="0" ng="37" na="37"/>
+<httpSample t="4303" it="0" lt="4302" ct="3131" ts="1592385316550" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-43" dt="text" by="621" sby="523" ng="36" na="36">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4303" it="2" lt="4302" ct="3131" ts="1592385316549" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-43" dt="" by="621" sby="523" ng="36" na="36"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320854" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="619" sby="0" ng="36" na="36"/>
+<httpSample t="4734" it="0" lt="4734" ct="3253" ts="1592385316122" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-18" dt="text" by="603" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4734" it="2" lt="4734" ct="3253" ts="1592385316120" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-18" dt="" by="603" sby="523" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320857" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="619" sby="0" ng="35" na="35"/>
+<httpSample t="4622" it="0" lt="4622" ct="3112" ts="1592385316253" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-26" dt="text" by="621" sby="523" ng="34" na="34">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4622" it="2" lt="4622" ct="3112" ts="1592385316252" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-26" dt="" by="621" sby="523" ng="34" na="34"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320876" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="618" sby="0" ng="34" na="34"/>
+<httpSample t="4287" it="0" lt="4286" ct="2735" ts="1592385316593" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-45" dt="text" by="621" sby="523" ng="33" na="33">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4287" it="2" lt="4286" ct="2735" ts="1592385316591" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-45" dt="" by="621" sby="523" ng="33" na="33"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320881" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="619" sby="0" ng="33" na="33"/>
+<httpSample t="4686" it="0" lt="4686" ct="3143" ts="1592385316195" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-23" dt="text" by="621" sby="523" ng="33" na="33">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4686" it="2" lt="4686" ct="3143" ts="1592385316194" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-23" dt="" by="621" sby="523" ng="33" na="33"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320882" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="619" sby="0" ng="32" na="32"/>
+<httpSample t="4710" it="0" lt="4710" ct="3182" ts="1592385316192" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-22" dt="text" by="603" sby="523" ng="31" na="31">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4710" it="1" lt="4710" ct="3182" ts="1592385316191" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-22" dt="" by="603" sby="523" ng="31" na="31"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320903" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="618" sby="0" ng="31" na="31"/>
+<httpSample t="4776" it="0" lt="4775" ct="3185" ts="1592385316163" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-20" dt="text" by="621" sby="523" ng="30" na="30">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4776" it="2" lt="4775" ct="3185" ts="1592385316162" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-20" dt="" by="621" sby="523" ng="30" na="30"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592385320940" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="619" sby="0" ng="30" na="30"/>
+<httpSample t="4833" it="0" lt="4832" ct="3266" ts="1592385316112" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-17" dt="text" by="621" sby="523" ng="29" na="29">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4563" it="0" lt="4563" ct="2988" ts="1592385316382" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-33" dt="text" by="621" sby="523" ng="29" na="29">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4833" it="3" lt="4832" ct="3266" ts="1592385316110" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-17" dt="" by="621" sby="523" ng="29" na="29"/>
+<sample t="4563" it="3" lt="4563" ct="2988" ts="1592385316380" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-33" dt="" by="621" sby="523" ng="29" na="29"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320946" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="618" sby="0" ng="29" na="29"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320946" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="619" sby="0" ng="29" na="29"/>
+<httpSample t="4696" it="0" lt="4696" ct="3174" ts="1592385316250" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-25" dt="text" by="603" sby="523" ng="29" na="29">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4696" it="3" lt="4696" ct="3174" ts="1592385316248" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-25" dt="" by="603" sby="523" ng="29" na="29"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320947" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="619" sby="0" ng="29" na="29"/>
+<httpSample t="4525" it="0" lt="4525" ct="2893" ts="1592385316437" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-37" dt="text" by="621" sby="523" ng="26" na="26">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4525" it="2" lt="4525" ct="2893" ts="1592385316436" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-37" dt="" by="621" sby="523" ng="26" na="26"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320963" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="619" sby="0" ng="26" na="26"/>
+<httpSample t="4351" it="0" lt="4350" ct="2796" ts="1592385316617" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-46" dt="text" by="621" sby="523" ng="25" na="25">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4351" it="3" lt="4350" ct="2796" ts="1592385316615" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-46" dt="" by="621" sby="523" ng="25" na="25"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320969" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="619" sby="0" ng="25" na="25"/>
+<httpSample t="4983" it="0" lt="4981" ct="3385" ts="1592385315991" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="621" sby="523" ng="24" na="24">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4983" it="154" lt="4981" ct="3385" ts="1592385315838" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="621" sby="523" ng="24" na="24"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320975" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="618" sby="0" ng="24" na="24"/>
+<httpSample t="4677" it="0" lt="4677" ct="3039" ts="1592385316305" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-28" dt="text" by="621" sby="523" ng="23" na="23">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4677" it="2" lt="4677" ct="3039" ts="1592385316304" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-28" dt="" by="621" sby="523" ng="23" na="23"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320983" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="618" sby="0" ng="23" na="23"/>
+<httpSample t="4931" it="0" lt="4931" ct="3271" ts="1592385316064" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-14" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4931" it="3" lt="4931" ct="3271" ts="1592385316062" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-14" dt="" by="621" sby="523" ng="22" na="22"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385320997" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="619" sby="0" ng="22" na="22"/>
+<httpSample t="4508" it="0" lt="4508" ct="2864" ts="1592385316491" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-40" dt="text" by="603" sby="523" ng="21" na="21">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4508" it="3" lt="4508" ct="2864" ts="1592385316489" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-40" dt="" by="603" sby="523" ng="21" na="21"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321000" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="619" sby="0" ng="21" na="21"/>
+<httpSample t="4655" it="0" lt="4654" ct="3023" ts="1592385316345" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-30" dt="text" by="621" sby="523" ng="21" na="21">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4655" it="3" lt="4654" ct="3023" ts="1592385316343" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-30" dt="" by="621" sby="523" ng="21" na="21"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321002" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="619" sby="0" ng="20" na="20"/>
+<httpSample t="4778" it="0" lt="4777" ct="3134" ts="1592385316228" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-24" dt="text" by="621" sby="523" ng="19" na="19">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4778" it="2" lt="4777" ct="3134" ts="1592385316226" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-24" dt="" by="621" sby="523" ng="19" na="19"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321007" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="619" sby="0" ng="19" na="19"/>
+<httpSample t="4977" it="0" lt="4976" ct="3338" ts="1592385316034" s="false" lb="Authentication" rc="401" rm="" tn="Thread Group 1-13" dt="text" by="832" sby="509" ng="18" na="18">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4977" it="3" lt="4976" ct="3338" ts="1592385316032" s="false" lb="Test" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-13" dt="" by="832" sby="509" ng="18" na="18"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321012" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="456" sby="0" ng="18" na="18"/>
+<httpSample t="4511" it="0" lt="4510" ct="3163" ts="1592385316515" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-41" dt="text" by="621" sby="523" ng="17" na="17">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4511" it="1" lt="4510" ct="3163" ts="1592385316514" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-41" dt="" by="621" sby="523" ng="17" na="17"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321027" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="619" sby="0" ng="17" na="17"/>
+<httpSample t="5044" it="0" lt="5044" ct="3384" ts="1592385315986" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-9" dt="text" by="621" sby="523" ng="16" na="16">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="5044" it="11" lt="5044" ct="3384" ts="1592385315976" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-9" dt="" by="621" sby="523" ng="16" na="16"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321031" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="618" sby="0" ng="16" na="16"/>
+<httpSample t="5065" it="0" lt="5064" ct="3393" ts="1592385315987" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-3" dt="text" by="621" sby="523" ng="15" na="15">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="5065" it="124" lt="5064" ct="3393" ts="1592385315863" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="621" sby="523" ng="15" na="15"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321053" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="618" sby="0" ng="15" na="15"/>
+<httpSample t="5057" it="0" lt="5056" ct="3318" ts="1592385316017" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-12" dt="text" by="621" sby="523" ng="14" na="14">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="5057" it="3" lt="5056" ct="3318" ts="1592385316015" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-12" dt="" by="621" sby="523" ng="14" na="14"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321075" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="619" sby="0" ng="14" na="14"/>
+<httpSample t="4720" it="0" lt="4720" ct="3061" ts="1592385316361" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-31" dt="text" by="621" sby="523" ng="13" na="13">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="5090" it="0" lt="5090" ct="3397" ts="1592385315991" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-10" dt="text" by="621" sby="523" ng="13" na="13">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4672" it="0" lt="4672" ct="3013" ts="1592385316409" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-35" dt="text" by="621" sby="523" ng="13" na="13">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="5090" it="3" lt="5090" ct="3397" ts="1592385315989" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-10" dt="" by="621" sby="523" ng="13" na="13"/>
+<httpSample t="4762" it="0" lt="4762" ct="3328" ts="1592385316320" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-29" dt="text" by="621" sby="523" ng="13" na="13">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4762" it="3" lt="4762" ct="3328" ts="1592385316318" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-29" dt="" by="621" sby="523" ng="13" na="13"/>
+<sample t="4720" it="2" lt="4720" ct="3061" ts="1592385316360" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-31" dt="" by="621" sby="523" ng="13" na="13"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321083" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="619" sby="0" ng="13" na="13"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321083" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="619" sby="0" ng="13" na="13"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321083" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="619" sby="0" ng="13" na="13"/>
+<sample t="4672" it="4" lt="4672" ct="3013" ts="1592385316407" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-35" dt="" by="621" sby="523" ng="13" na="13"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321085" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="619" sby="0" ng="11" na="11"/>
+<httpSample t="4949" it="0" lt="4948" ct="3188" ts="1592385316148" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-19" dt="text" by="621" sby="523" ng="9" na="9">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4949" it="2" lt="4948" ct="3188" ts="1592385316147" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-19" dt="" by="621" sby="523" ng="9" na="9"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321098" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="619" sby="0" ng="9" na="9"/>
+<httpSample t="5112" it="0" lt="5112" ct="3350" ts="1592385315986" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-7" dt="text" by="621" sby="523" ng="9" na="9">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="5112" it="62" lt="5112" ct="3350" ts="1592385315925" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-7" dt="" by="621" sby="523" ng="9" na="9"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592385321099" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="618" sby="0" ng="8" na="8"/>
+<httpSample t="4617" it="0" lt="4617" ct="2867" ts="1592385316483" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-39" dt="text" by="621" sby="523" ng="8" na="8">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4617" it="3" lt="4617" ct="2867" ts="1592385316481" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-39" dt="" by="621" sby="523" ng="8" na="8"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321101" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="619" sby="0" ng="8" na="8"/>
+<httpSample t="4830" it="0" lt="4829" ct="3088" ts="1592385316282" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-27" dt="text" by="621" sby="523" ng="6" na="6">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4830" it="2" lt="4829" ct="3088" ts="1592385316281" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-27" dt="" by="621" sby="523" ng="6" na="6"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321113" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="619" sby="0" ng="6" na="6"/>
+<httpSample t="4580" it="0" lt="4579" ct="2839" ts="1592385316535" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-42" dt="text" by="621" sby="523" ng="5" na="5">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4580" it="2" lt="4579" ct="2839" ts="1592385316533" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-42" dt="" by="621" sby="523" ng="5" na="5"/>
+<httpSample t="5128" it="0" lt="5128" ct="3476" ts="1592385315987" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-8" dt="text" by="621" sby="523" ng="5" na="5">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="1" it="0" lt="0" ct="0" ts="1592385321115" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="618" sby="0" ng="5" na="5"/>
+<sample t="5128" it="44" lt="5128" ct="3476" ts="1592385315944" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-8" dt="" by="621" sby="523" ng="5" na="5"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321116" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="618" sby="0" ng="5" na="5"/>
+<httpSample t="5148" it="0" lt="5148" ct="3360" ts="1592385315987" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-6" dt="text" by="621" sby="523" ng="3" na="3">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="5148" it="68" lt="5148" ct="3360" ts="1592385315919" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-6" dt="" by="621" sby="523" ng="3" na="3"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592385321135" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="618" sby="0" ng="3" na="3"/>
+<httpSample t="4746" it="0" lt="4745" ct="3010" ts="1592385316436" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-36" dt="text" by="621" sby="523" ng="2" na="2">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4746" it="4" lt="4745" ct="3010" ts="1592385316433" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-36" dt="" by="621" sby="523" ng="2" na="2"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321183" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="619" sby="0" ng="2" na="2"/>
+<httpSample t="5172" it="0" lt="5172" ct="3435" ts="1592385316011" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-11" dt="text" by="621" sby="523" ng="2" na="2">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="5172" it="2" lt="5172" ct="3435" ts="1592385316010" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-11" dt="" by="621" sby="523" ng="2" na="2"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592385321185" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="619" sby="0" ng="2" na="2"/>
+
+<httpSample t="3012" it="0" lt="3007" ct="2588" ts="1592386055380" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-39" dt="text" by="621" sby="523" ng="50" na="50">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="2962" it="0" lt="2957" ct="2538" ts="1592386055430" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-41" dt="text" by="621" sby="523" ng="50" na="50">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="3012" it="13" lt="3007" ct="2588" ts="1592386055379" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-39" dt="" by="621" sby="523" ng="50" na="50"/>
+<sample t="2962" it="13" lt="2957" ct="2538" ts="1592386055429" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-41" dt="" by="621" sby="523" ng="50" na="50"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592386058410" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="619" sby="0" ng="50" na="50"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592386058410" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="619" sby="0" ng="50" na="50"/>
+<httpSample t="3999" it="0" lt="3999" ct="2786" ts="1592386055374" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-38" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="3999" it="2" lt="3999" ct="2786" ts="1592386055373" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-38" dt="" by="621" sby="523" ng="48" na="48"/>
+<httpSample t="3807" it="0" lt="3807" ct="2585" ts="1592386055567" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-48" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="3807" it="3" lt="3807" ct="2585" ts="1592386055565" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-48" dt="" by="621" sby="523" ng="48" na="48"/>
+<httpSample t="4439" it="0" lt="4439" ct="3211" ts="1592386054934" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-14" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4439" it="5" lt="4439" ct="3211" ts="1592386054932" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-14" dt="" by="621" sby="523" ng="48" na="48"/>
+<httpSample t="4236" it="0" lt="4236" ct="3016" ts="1592386055137" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-26" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4236" it="6" lt="4236" ct="3016" ts="1592386055135" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-26" dt="" by="621" sby="523" ng="48" na="48"/>
+<httpSample t="3895" it="0" lt="3894" ct="2656" ts="1592386055484" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-44" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="3895" it="3" lt="3894" ct="2656" ts="1592386055482" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-44" dt="" by="621" sby="523" ng="48" na="48"/>
+<httpSample t="4520" it="0" lt="4519" ct="3288" ts="1592386054860" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-2" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4520" it="144" lt="4519" ct="3288" ts="1592386054717" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="621" sby="523" ng="48" na="48"/>
+<httpSample t="4119" it="0" lt="4119" ct="2879" ts="1592386055254" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-32" dt="text" by="603" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4119" it="12" lt="4119" ct="2879" ts="1592386055252" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-32" dt="" by="603" sby="523" ng="48" na="48"/>
+<httpSample t="4513" it="0" lt="4512" ct="3272" ts="1592386054869" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-10" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4513" it="4" lt="4512" ct="3272" ts="1592386054867" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-10" dt="" by="621" sby="523" ng="48" na="48"/>
+<httpSample t="4161" it="0" lt="4161" ct="2918" ts="1592386055218" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-30" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4161" it="7" lt="4161" ct="2918" ts="1592386055217" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-30" dt="" by="621" sby="523" ng="48" na="48"/>
+<httpSample t="4514" it="0" lt="4514" ct="3289" ts="1592386054860" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-6" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4378" it="0" lt="4377" ct="3134" ts="1592386055007" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-19" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4514" it="81" lt="4514" ct="3289" ts="1592386054791" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-6" dt="" by="621" sby="523" ng="48" na="48"/>
+<sample t="4378" it="3" lt="4377" ct="3134" ts="1592386055005" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-19" dt="" by="621" sby="523" ng="48" na="48"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592386059388" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="619" sby="0" ng="48" na="48"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059389" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="618" sby="0" ng="48" na="48"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592386059389" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="619" sby="0" ng="48" na="48"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059390" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="619" sby="0" ng="47" na="47"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059392" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="619" sby="0" ng="44" na="44"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059392" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="618" sby="0" ng="44" na="44"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059393" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="619" sby="0" ng="42" na="42"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059394" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="619" sby="0" ng="42" na="42"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059392" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="619" sby="0" ng="44" na="44"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059393" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="619" sby="0" ng="42" na="42"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059392" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="619" sby="0" ng="44" na="44"/>
+<httpSample t="4380" it="0" lt="4380" ct="2971" ts="1592386055160" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-27" dt="text" by="621" sby="523" ng="37" na="37">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4380" it="3" lt="4380" ct="2971" ts="1592386055158" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-27" dt="" by="621" sby="523" ng="37" na="37"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059542" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="619" sby="0" ng="37" na="37"/>
+<httpSample t="4080" it="0" lt="4080" ct="2679" ts="1592386055464" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-43" dt="text" by="621" sby="523" ng="36" na="36">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4080" it="2" lt="4080" ct="2679" ts="1592386055463" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-43" dt="" by="621" sby="523" ng="36" na="36"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059546" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="619" sby="0" ng="36" na="36"/>
+<httpSample t="4686" it="0" lt="4686" ct="3270" ts="1592386054860" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-7" dt="text" by="621" sby="523" ng="36" na="36">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4686" it="51" lt="4686" ct="3270" ts="1592386054810" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-7" dt="" by="621" sby="523" ng="36" na="36"/>
+<httpSample t="4196" it="0" lt="4196" ct="2781" ts="1592386055349" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-37" dt="text" by="621" sby="523" ng="36" na="36">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4327" it="0" lt="4324" ct="2935" ts="1592386055224" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-31" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4101" it="0" lt="4101" ct="2681" ts="1592386055447" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-42" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4101" it="6" lt="4101" ct="2681" ts="1592386055446" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-42" dt="" by="621" sby="523" ng="35" na="35"/>
+<httpSample t="4690" it="0" lt="4688" ct="3296" ts="1592386054860" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-8" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4034" it="0" lt="4032" ct="2618" ts="1592386055516" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-46" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4690" it="32" lt="4688" ct="3296" ts="1592386054831" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-8" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="4034" it="5" lt="4032" ct="2618" ts="1592386055515" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-46" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059554" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="619" sby="0" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059555" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="619" sby="0" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059550" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="618" sby="0" ng="35" na="35"/>
+<httpSample t="4374" it="0" lt="4371" ct="2977" ts="1592386055176" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-28" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4374" it="9" lt="4371" ct="2977" ts="1592386055175" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-28" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059559" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="619" sby="0" ng="32" na="32"/>
+<httpSample t="3949" it="0" lt="3948" ct="2536" ts="1592386055601" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-50" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="3949" it="12" lt="3948" ct="2536" ts="1592386055600" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-50" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592386059561" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="618" sby="0" ng="32" na="32"/>
+<httpSample t="4441" it="0" lt="4441" ct="3053" ts="1592386055108" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-25" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4441" it="16" lt="4441" ct="3053" ts="1592386055107" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-25" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059565" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="619" sby="0" ng="31" na="31"/>
+<httpSample t="4687" it="0" lt="4686" ct="3301" ts="1592386054860" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-5" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4687" it="106" lt="4686" ct="3301" ts="1592386054776" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059569" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="618" sby="0" ng="29" na="29"/>
+<httpSample t="4221" it="0" lt="4221" ct="3295" ts="1592386055327" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-36" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4221" it="27" lt="4221" ct="3295" ts="1592386055326" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-36" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059574" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="619" sby="0" ng="28" na="28"/>
+<httpSample t="4684" it="0" lt="4684" ct="3284" ts="1592386054860" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-4" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4684" it="145" lt="4684" ct="3284" ts="1592386054748" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059554" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="618" sby="0" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059580" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="618" sby="0" ng="27" na="27"/>
+<httpSample t="4560" it="0" lt="4559" ct="3556" ts="1592386054992" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-18" dt="text" by="621" sby="523" ng="35" na="35">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4560" it="31" lt="4559" ct="3556" ts="1592386054990" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-18" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="4327" it="2" lt="4324" ct="2935" ts="1592386055223" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-31" dt="" by="621" sby="523" ng="35" na="35"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059582" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="619" sby="0" ng="26" na="26"/>
+<sample t="4196" it="8" lt="4196" ct="2781" ts="1592386055348" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-37" dt="" by="621" sby="523" ng="36" na="36"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059583" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="618" sby="0" ng="25" na="25"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059582" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="619" sby="0" ng="27" na="27"/>
+<httpSample t="4012" it="0" lt="4012" ct="2570" ts="1592386055585" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-49" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4548" it="0" lt="4548" ct="3666" ts="1592386055049" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-21" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4494" it="0" lt="4494" ct="3518" ts="1592386055104" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-24" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4494" it="3" lt="4494" ct="3518" ts="1592386055103" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-24" dt="" by="621" sby="523" ng="22" na="22"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059600" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="618" sby="0" ng="22" na="22"/>
+<httpSample t="4621" it="0" lt="4621" ct="3178" ts="1592386054980" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-17" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4621" it="2" lt="4621" ct="3178" ts="1592386054979" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-17" dt="" by="621" sby="523" ng="22" na="22"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059602" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="619" sby="0" ng="21" na="21"/>
+<httpSample t="4515" it="0" lt="4515" ct="3073" ts="1592386055083" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-23" dt="text" by="603" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4012" it="8" lt="4012" ct="2570" ts="1592386055583" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-49" dt="" by="621" sby="523" ng="22" na="22"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059603" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="619" sby="0" ng="20" na="20"/>
+<httpSample t="4293" it="0" lt="4293" ct="2851" ts="1592386055313" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-35" dt="text" by="621" sby="523" ng="19" na="19">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4293" it="2" lt="4293" ct="2851" ts="1592386055312" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-35" dt="" by="621" sby="523" ng="19" na="19"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059607" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="618" sby="0" ng="19" na="19"/>
+<httpSample t="4580" it="0" lt="4580" ct="3117" ts="1592386055022" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-20" dt="text" by="621" sby="523" ng="21" na="21">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4580" it="12" lt="4580" ct="3117" ts="1592386055020" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-20" dt="" by="621" sby="523" ng="21" na="21"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059613" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="619" sby="0" ng="18" na="18"/>
+<httpSample t="4712" it="0" lt="4712" ct="3265" ts="1592386054889" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-11" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4712" it="15" lt="4712" ct="3265" ts="1592386054888" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-11" dt="" by="621" sby="523" ng="22" na="22"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059616" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="619" sby="0" ng="17" na="17"/>
+<httpSample t="4545" it="0" lt="4545" ct="3092" ts="1592386055056" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-22" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4548" it="3" lt="4548" ct="3666" ts="1592386055048" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-21" dt="" by="621" sby="523" ng="22" na="22"/>
+<sample t="4545" it="19" lt="4545" ct="3092" ts="1592386055054" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-22" dt="" by="621" sby="523" ng="22" na="22"/>
+<httpSample t="4663" it="0" lt="4662" ct="3211" ts="1592386054953" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-15" dt="text" by="621" sby="523" ng="17" na="17">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059619" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="619" sby="0" ng="16" na="16"/>
+<sample t="4515" it="6" lt="4515" ct="3073" ts="1592386055082" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-23" dt="" by="603" sby="523" ng="22" na="22"/>
+<sample t="4663" it="4" lt="4662" ct="3211" ts="1592386054952" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-15" dt="" by="621" sby="523" ng="17" na="17"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059619" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="619" sby="0" ng="16" na="16"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059619" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="617" sby="0" ng="16" na="16"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059620" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="619" sby="0" ng="16" na="16"/>
+<httpSample t="4763" it="0" lt="4763" ct="3303" ts="1592386054860" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-3" dt="text" by="621" sby="523" ng="12" na="12">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4763" it="121" lt="4763" ct="3303" ts="1592386054740" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="621" sby="523" ng="12" na="12"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059625" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="618" sby="0" ng="12" na="12"/>
+<httpSample t="4779" it="0" lt="4779" ct="3284" ts="1592386054860" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-9" dt="text" by="621" sby="523" ng="11" na="11">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4779" it="20" lt="4779" ct="3284" ts="1592386054842" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-9" dt="" by="621" sby="523" ng="11" na="11"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059641" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="618" sby="0" ng="11" na="11"/>
+<httpSample t="4759" it="0" lt="4758" ct="3235" ts="1592386054917" s="false" lb="Authentication" rc="401" rm="" tn="Thread Group 1-13" dt="text" by="832" sby="509" ng="10" na="10">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4759" it="4" lt="4758" ct="3235" ts="1592386054915" s="false" lb="Test" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-13" dt="" by="832" sby="509" ng="10" na="10"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059679" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="457" sby="0" ng="10" na="10"/>
+<httpSample t="4173" it="0" lt="4173" ct="2631" ts="1592386055534" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-47" dt="text" by="621" sby="523" ng="9" na="9">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4415" it="0" lt="4415" ct="2870" ts="1592386055292" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-34" dt="text" by="621" sby="523" ng="9" na="9">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4173" it="3" lt="4173" ct="2631" ts="1592386055532" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-47" dt="" by="621" sby="523" ng="9" na="9"/>
+<sample t="4415" it="3" lt="4415" ct="2870" ts="1592386055291" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-34" dt="" by="621" sby="523" ng="9" na="9"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059709" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="619" sby="0" ng="9" na="9"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059709" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="619" sby="0" ng="9" na="9"/>
+<httpSample t="4867" it="0" lt="4867" ct="3285" ts="1592386054860" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="621" sby="523" ng="7" na="7">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4867" it="148" lt="4867" ct="3285" ts="1592386054713" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="621" sby="523" ng="7" na="7"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059729" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="618" sby="0" ng="7" na="7"/>
+<httpSample t="4475" it="0" lt="4474" ct="2875" ts="1592386055267" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-33" dt="text" by="621" sby="523" ng="6" na="6">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="4236" it="0" lt="4235" ct="2637" ts="1592386055506" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-45" dt="text" by="621" sby="523" ng="6" na="6">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4475" it="3" lt="4474" ct="2875" ts="1592386055265" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-33" dt="" by="621" sby="523" ng="6" na="6"/>
+<sample t="4236" it="3" lt="4235" ct="2637" ts="1592386055504" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-45" dt="" by="621" sby="523" ng="6" na="6"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592386059743" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="619" sby="0" ng="6" na="6"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059744" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="618" sby="0" ng="6" na="6"/>
+<httpSample t="4543" it="0" lt="4543" ct="2962" ts="1592386055201" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-29" dt="text" by="621" sby="523" ng="6" na="6">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4543" it="3" lt="4543" ct="2962" ts="1592386055199" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-29" dt="" by="621" sby="523" ng="6" na="6"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592386059746" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="619" sby="0" ng="4" na="4"/>
+<httpSample t="4792" it="0" lt="4792" ct="3192" ts="1592386054968" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-16" dt="text" by="621" sby="523" ng="3" na="3">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4792" it="2" lt="4792" ct="3192" ts="1592386054967" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-16" dt="" by="621" sby="523" ng="3" na="3"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592386059765" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="619" sby="0" ng="3" na="3"/>
+<httpSample t="4937" it="0" lt="4937" ct="3252" ts="1592386054897" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-12" dt="text" by="621" sby="523" ng="2" na="2">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4937" it="3" lt="4937" ct="3252" ts="1592386054895" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-12" dt="" by="621" sby="523" ng="2" na="2"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592386059835" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="619" sby="0" ng="2" na="2"/>
+<httpSample t="4462" it="0" lt="4462" ct="2748" ts="1592386055408" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-40" dt="text" by="621" sby="523" ng="1" na="1">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="4462" it="2" lt="4462" ct="2748" ts="1592386055407" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-40" dt="" by="621" sby="523" ng="1" na="1"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592386059871" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="619" sby="0" ng="1" na="1"/>
+
+<httpSample t="8178" it="0" lt="8171" ct="6092" ts="1592676451656" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-13" dt="text" by="621" sby="523" ng="50" na="50">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="8182" it="0" lt="8175" ct="6107" ts="1592676451652" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-35" dt="text" by="621" sby="523" ng="50" na="50">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="8161" it="0" lt="8154" ct="6062" ts="1592676451673" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-37" dt="text" by="603" sby="523" ng="50" na="50">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8182" it="812" lt="8175" ct="6107" ts="1592676450883" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-35" dt="" by="621" sby="523" ng="50" na="50"/>
+<sample t="8178" it="1219" lt="8171" ct="6092" ts="1592676450479" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-13" dt="" by="621" sby="523" ng="50" na="50"/>
+<sample t="8161" it="797" lt="8154" ct="6062" ts="1592676450919" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-37" dt="" by="603" sby="523" ng="50" na="50"/>
+<httpSample t="8249" it="0" lt="8246" ct="6092" ts="1592676451661" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-50" dt="text" by="621" sby="523" ng="50" na="50">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8249" it="501" lt="8246" ct="6092" ts="1592676451162" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-50" dt="" by="621" sby="523" ng="50" na="50"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676459915" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="619" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676459917" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="619" sby="0" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676459919" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="619" sby="0" ng="50" na="50"/>
+<sample t="4" it="0" lt="0" ct="0" ts="1592676459915" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="619" sby="0" ng="50" na="50"/>
+<httpSample t="8217" it="0" lt="8212" ct="6118" ts="1592676451716" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-31" dt="text" by="621" sby="523" ng="50" na="50">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8217" it="897" lt="8212" ct="6118" ts="1592676450821" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-31" dt="" by="621" sby="523" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676459967" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="619" sby="0" ng="50" na="50"/>
+<httpSample t="8325" it="0" lt="8325" ct="6123" ts="1592676451657" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-49" dt="text" by="621" sby="523" ng="50" na="50">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8325" it="517" lt="8325" ct="6123" ts="1592676451143" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-49" dt="" by="621" sby="523" ng="50" na="50"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676459985" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="619" sby="0" ng="50" na="50"/>
+<httpSample t="8356" it="0" lt="8355" ct="6097" ts="1592676451653" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-32" dt="text" by="621" sby="523" ng="48" na="48">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8356" it="827" lt="8355" ct="6097" ts="1592676450834" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-32" dt="" by="621" sby="523" ng="48" na="48"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460017" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="619" sby="0" ng="48" na="48"/>
+<httpSample t="8338" it="0" lt="8338" ct="6060" ts="1592676451720" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-7" dt="text" by="621" sby="523" ng="43" na="43">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8338" it="1242" lt="8338" ct="6060" ts="1592676450479" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-7" dt="" by="621" sby="523" ng="43" na="43"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460060" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="618" sby="0" ng="43" na="43"/>
+<httpSample t="8415" it="0" lt="8415" ct="6112" ts="1592676451657" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-10" dt="text" by="621" sby="523" ng="42" na="42">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8415" it="1156" lt="8415" ct="6112" ts="1592676450504" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-10" dt="" by="621" sby="523" ng="42" na="42"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460076" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="619" sby="0" ng="42" na="42"/>
+<httpSample t="8393" it="0" lt="8393" ct="6089" ts="1592676451683" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-28" dt="text" by="621" sby="523" ng="42" na="42">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8393" it="986" lt="8393" ct="6089" ts="1592676450699" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-28" dt="" by="621" sby="523" ng="42" na="42"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460078" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="618" sby="0" ng="41" na="41"/>
+<httpSample t="8408" it="0" lt="8408" ct="6060" ts="1592676451696" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-41" dt="text" by="621" sby="523" ng="40" na="40">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8408" it="710" lt="8408" ct="6060" ts="1592676450989" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-41" dt="" by="621" sby="523" ng="40" na="40"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460107" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="618" sby="0" ng="40" na="40"/>
+<httpSample t="8446" it="0" lt="8445" ct="6092" ts="1592676451676" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-24" dt="text" by="621" sby="523" ng="39" na="39">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8446" it="981" lt="8445" ct="6092" ts="1592676450695" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-24" dt="" by="621" sby="523" ng="39" na="39"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460123" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="619" sby="0" ng="39" na="39"/>
+<httpSample t="8437" it="0" lt="8437" ct="6149" ts="1592676451687" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-40" dt="text" by="621" sby="523" ng="38" na="38">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8437" it="701" lt="8437" ct="6149" ts="1592676450987" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-40" dt="" by="621" sby="523" ng="38" na="38"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460125" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="619" sby="0" ng="38" na="38"/>
+<httpSample t="8555" it="0" lt="8554" ct="6178" ts="1592676451656" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-6" dt="text" by="603" sby="523" ng="37" na="37">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8555" it="1156" lt="8554" ct="6178" ts="1592676450504" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-6" dt="" by="603" sby="523" ng="37" na="37"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460216" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="618" sby="0" ng="37" na="37"/>
+<httpSample t="8578" it="0" lt="8577" ct="6172" ts="1592676451656" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-22" dt="text" by="621" sby="523" ng="36" na="36">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8578" it="1056" lt="8577" ct="6172" ts="1592676450602" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-22" dt="" by="621" sby="523" ng="36" na="36"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460237" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="619" sby="0" ng="36" na="36"/>
+<httpSample t="8575" it="0" lt="8570" ct="6110" ts="1592676451663" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-42" dt="text" by="621" sby="523" ng="36" na="36">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8575" it="664" lt="8570" ct="6110" ts="1592676451002" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-42" dt="" by="621" sby="523" ng="36" na="36"/>
+<httpSample t="8584" it="0" lt="8584" ct="6118" ts="1592676451654" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-26" dt="text" by="621" sby="523" ng="36" na="36">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8584" it="936" lt="8584" ct="6118" ts="1592676450722" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-26" dt="" by="621" sby="523" ng="36" na="36"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460247" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="619" sby="0" ng="35" na="35"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460247" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="619" sby="0" ng="35" na="35"/>
+<httpSample t="8596" it="0" lt="8596" ct="6164" ts="1592676451653" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-12" dt="text" by="621" sby="523" ng="33" na="33">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8596" it="1153" lt="8596" ct="6164" ts="1592676450504" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-12" dt="" by="621" sby="523" ng="33" na="33"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460254" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="618" sby="0" ng="33" na="33"/>
+<httpSample t="8608" it="0" lt="8607" ct="5881" ts="1592676451652" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-23" dt="text" by="621" sby="523" ng="32" na="32">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8608" it="983" lt="8607" ct="5881" ts="1592676450676" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-23" dt="" by="621" sby="523" ng="32" na="32"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460267" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="619" sby="0" ng="32" na="32"/>
+<httpSample t="8583" it="0" lt="8583" ct="6083" ts="1592676451686" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-38" dt="text" by="621" sby="523" ng="32" na="32">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="8606" it="0" lt="8590" ct="5869" ts="1592676451664" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-30" dt="text" by="621" sby="523" ng="32" na="32">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="8590" it="0" lt="8590" ct="6078" ts="1592676451679" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-19" dt="text" by="621" sby="523" ng="32" na="32">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8606" it="861" lt="8590" ct="5869" ts="1592676450805" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-30" dt="" by="621" sby="523" ng="32" na="32"/>
+<sample t="8590" it="1131" lt="8590" ct="6078" ts="1592676450553" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-19" dt="" by="621" sby="523" ng="32" na="32"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460274" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="619" sby="0" ng="31" na="31"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460275" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="619" sby="0" ng="31" na="31"/>
+<sample t="8583" it="806" lt="8583" ct="6083" ts="1592676450882" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-38" dt="" by="621" sby="523" ng="32" na="32"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460277" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="619" sby="0" ng="31" na="31"/>
+<httpSample t="8587" it="0" lt="8587" ct="6049" ts="1592676451704" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-18" dt="text" by="621" sby="523" ng="28" na="28">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="8593" it="0" lt="8593" ct="6869" ts="1592676451700" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-44" dt="text" by="621" sby="523" ng="28" na="28">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8593" it="660" lt="8593" ct="6869" ts="1592676451046" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-44" dt="" by="621" sby="523" ng="28" na="28"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460300" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="619" sby="0" ng="28" na="28"/>
+<httpSample t="8640" it="0" lt="8640" ct="6156" ts="1592676451661" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-27" dt="text" by="621" sby="523" ng="28" na="28">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8587" it="1201" lt="8587" ct="6049" ts="1592676450510" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-18" dt="" by="621" sby="523" ng="28" na="28"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460304" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="619" sby="0" ng="27" na="27"/>
+<httpSample t="8640" it="0" lt="8640" ct="6097" ts="1592676451661" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-33" dt="text" by="621" sby="523" ng="28" na="28">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8640" it="823" lt="8640" ct="6097" ts="1592676450842" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-33" dt="" by="621" sby="523" ng="28" na="28"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460305" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="619" sby="0" ng="27" na="27"/>
+<sample t="8640" it="984" lt="8640" ct="6156" ts="1592676450679" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-27" dt="" by="621" sby="523" ng="28" na="28"/>
+<httpSample t="8625" it="0" lt="8624" ct="6968" ts="1592676451684" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-9" dt="text" by="621" sby="523" ng="25" na="25">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8625" it="1180" lt="8624" ct="6968" ts="1592676450505" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-9" dt="" by="621" sby="523" ng="25" na="25"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460315" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="618" sby="0" ng="25" na="25"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460309" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="619" sby="0" ng="25" na="25"/>
+<httpSample t="8670" it="0" lt="8669" ct="6082" ts="1592676451654" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-3" dt="text" by="621" sby="523" ng="23" na="23">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8670" it="1169" lt="8669" ct="6082" ts="1592676450486" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-3" dt="" by="621" sby="523" ng="23" na="23"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460325" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="618" sby="0" ng="23" na="23"/>
+<httpSample t="8655" it="0" lt="8653" ct="6103" ts="1592676451679" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-47" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8655" it="589" lt="8653" ct="6103" ts="1592676451092" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-47" dt="" by="621" sby="523" ng="22" na="22"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460337" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="619" sby="0" ng="22" na="22"/>
+<httpSample t="8684" it="0" lt="8684" ct="6084" ts="1592676451655" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-15" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8684" it="1153" lt="8684" ct="6084" ts="1592676450504" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-15" dt="" by="621" sby="523" ng="22" na="22"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460341" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="619" sby="0" ng="21" na="21"/>
+<httpSample t="8684" it="0" lt="8684" ct="6164" ts="1592676451658" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-39" dt="text" by="621" sby="523" ng="20" na="20">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8684" it="706" lt="8684" ct="6164" ts="1592676450954" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-39" dt="" by="621" sby="523" ng="20" na="20"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460345" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="619" sby="0" ng="20" na="20"/>
+<httpSample t="8643" it="0" lt="8643" ct="6062" ts="1592676451694" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-29" dt="text" by="621" sby="523" ng="22" na="22">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8643" it="932" lt="8643" ct="6062" ts="1592676450776" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-29" dt="" by="621" sby="523" ng="22" na="22"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460351" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="619" sby="0" ng="19" na="19"/>
+<httpSample t="8655" it="0" lt="8655" ct="6130" ts="1592676451690" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-16" dt="text" by="621" sby="523" ng="20" na="20">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="8668" it="0" lt="8668" ct="6165" ts="1592676451673" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-21" dt="text" by="621" sby="523" ng="20" na="20">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8668" it="1039" lt="8668" ct="6165" ts="1592676450646" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-21" dt="" by="621" sby="523" ng="20" na="20"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460354" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="619" sby="0" ng="19" na="19"/>
+<sample t="8655" it="1206" lt="8655" ct="6130" ts="1592676450493" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-16" dt="" by="621" sby="523" ng="20" na="20"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460354" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="619" sby="0" ng="18" na="18"/>
+<httpSample t="8687" it="0" lt="8687" ct="6145" ts="1592676451679" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-48" dt="text" by="621" sby="523" ng="16" na="16">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8687" it="609" lt="8687" ct="6145" ts="1592676451072" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-48" dt="" by="621" sby="523" ng="16" na="16"/>
+<httpSample t="8711" it="0" lt="8710" ct="6113" ts="1592676451656" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-34" dt="text" by="621" sby="523" ng="16" na="16">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460368" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="619" sby="0" ng="16" na="16"/>
+<sample t="8711" it="795" lt="8710" ct="6113" ts="1592676450863" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-34" dt="" by="621" sby="523" ng="16" na="16"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460371" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="619" sby="0" ng="16" na="16"/>
+<httpSample t="8685" it="0" lt="8685" ct="6061" ts="1592676451697" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-5" dt="text" by="603" sby="523" ng="14" na="14">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8685" it="1216" lt="8685" ct="6061" ts="1592676450482" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-5" dt="" by="603" sby="523" ng="14" na="14"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460383" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="618" sby="0" ng="14" na="14"/>
+<httpSample t="8736" it="0" lt="8735" ct="6181" ts="1592676451652" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-20" dt="text" by="621" sby="523" ng="13" na="13">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8736" it="1018" lt="8735" ct="6181" ts="1592676450635" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-20" dt="" by="621" sby="523" ng="13" na="13"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460390" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="619" sby="0" ng="13" na="13"/>
+<httpSample t="8729" it="0" lt="8728" ct="6163" ts="1592676451663" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-2" dt="text" by="621" sby="523" ng="13" na="13">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8729" it="1178" lt="8728" ct="6163" ts="1592676450486" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="621" sby="523" ng="13" na="13"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460394" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="617" sby="0" ng="12" na="12"/>
+<httpSample t="8672" it="0" lt="8672" ct="6022" ts="1592676451729" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-25" dt="text" by="621" sby="523" ng="12" na="12">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="8707" it="0" lt="8706" ct="6043" ts="1592676451696" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-4" dt="text" by="621" sby="523" ng="11" na="11">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8672" it="1087" lt="8672" ct="6022" ts="1592676450645" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-25" dt="" by="621" sby="523" ng="12" na="12"/>
+<sample t="8707" it="1215" lt="8706" ct="6043" ts="1592676450482" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-4" dt="" by="621" sby="523" ng="11" na="11"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460404" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="619" sby="0" ng="11" na="11"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460405" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="617" sby="0" ng="11" na="11"/>
+<httpSample t="8760" it="0" lt="8756" ct="6071" ts="1592676451662" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-11" dt="text" by="621" sby="523" ng="9" na="9">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8760" it="1182" lt="8756" ct="6071" ts="1592676450481" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-11" dt="" by="621" sby="523" ng="9" na="9"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460424" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="618" sby="0" ng="9" na="9"/>
+<httpSample t="8704" it="0" lt="8703" ct="6100" ts="1592676451722" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-14" dt="text" by="621" sby="523" ng="8" na="8">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8704" it="1251" lt="8703" ct="6100" ts="1592676450477" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-14" dt="" by="621" sby="523" ng="8" na="8"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676460433" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="619" sby="0" ng="8" na="8"/>
+<httpSample t="8771" it="0" lt="8768" ct="6168" ts="1592676451662" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-17" dt="text" by="621" sby="523" ng="8" na="8">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="8775" it="0" lt="8774" ct="6175" ts="1592676451661" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-45" dt="text" by="621" sby="523" ng="8" na="8">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8771" it="1087" lt="8768" ct="6168" ts="1592676450578" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-17" dt="" by="621" sby="523" ng="8" na="8"/>
+<sample t="8775" it="661" lt="8774" ct="6175" ts="1592676451001" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-45" dt="" by="621" sby="523" ng="8" na="8"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460437" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="619" sby="0" ng="7" na="7"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460437" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="619" sby="0" ng="7" na="7"/>
+<httpSample t="8781" it="0" lt="8776" ct="6164" ts="1592676451661" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-36" dt="text" by="621" sby="523" ng="5" na="5">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<httpSample t="8780" it="0" lt="8780" ct="6120" ts="1592676451662" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-8" dt="text" by="621" sby="523" ng="5" na="5">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8781" it="760" lt="8776" ct="6164" ts="1592676450902" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-36" dt="" by="621" sby="523" ng="5" na="5"/>
+<sample t="8780" it="1178" lt="8780" ct="6120" ts="1592676450485" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-8" dt="" by="621" sby="523" ng="5" na="5"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460443" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="619" sby="0" ng="5" na="5"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460443" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="618" sby="0" ng="5" na="5"/>
+<httpSample t="8823" it="0" lt="8821" ct="6978" ts="1592676451661" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-46" dt="text" by="621" sby="523" ng="3" na="3">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="8823" it="576" lt="8821" ct="6978" ts="1592676451085" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-46" dt="" by="621" sby="523" ng="3" na="3"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460485" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="619" sby="0" ng="3" na="3"/>
+<httpSample t="9007" it="0" lt="9007" ct="6173" ts="1592676451661" s="false" lb="Authentication" rc="401" rm="" tn="Thread Group 1-1" dt="text" by="832" sby="509" ng="2" na="2">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="9007" it="1181" lt="9007" ct="6173" ts="1592676450483" s="false" lb="Test" rc="" rm="Number of samples in transaction : 1, number of failing samples : 1" tn="Thread Group 1-1" dt="" by="832" sby="509" ng="2" na="2"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1592676460671" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="456" sby="0" ng="2" na="2"/>
+<httpSample t="9498" it="0" lt="9498" ct="6063" ts="1592676451652" s="true" lb="Authentication" rc="200" rm="" tn="Thread Group 1-43" dt="text" by="621" sby="523" ng="1" na="1">
+  <java.net.URL>https://staging2-ceaservices3.at-event.com/v8/oauth/token</java.net.URL>
+</httpSample>
+<sample t="9498" it="666" lt="9498" ct="6063" ts="1592676450987" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-43" dt="" by="621" sby="523" ng="1" na="1"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1592676461151" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="619" sby="0" ng="1" na="1"/>
+
+</testResults>
